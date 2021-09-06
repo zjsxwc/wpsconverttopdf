@@ -7,7 +7,7 @@
 
 #### 使用
 
-代码里的例子
+代码里的例子 https://github.com/zjsxwc/wpsconverttopdf/blob/main/WpsConvertToPdf.py#L111
 ```python
 x = WpsConvertToPdf()
 x.convert(r"C:\Users\zjsxwc\Desktop\WpsConvertToPdf\test.xlsx")
