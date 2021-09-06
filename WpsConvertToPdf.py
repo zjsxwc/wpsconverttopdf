@@ -108,6 +108,6 @@ class WpsConvertToPdf:
 
 		os.rename(tryRenamePdfFileNamePath, pdfFilePath)
 
-
-x = WpsConvertToPdf()
-x.convert(r"C:\Users\zjsxwc\Desktop\WpsConvertToPdf\test.xlsx")
+# 例子
+# x = WpsConvertToPdf()
+# x.convert(r"C:\Users\zjsxwc\Desktop\WpsConvertToPdf\test.xlsx")
