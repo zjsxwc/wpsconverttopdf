@@ -77,7 +77,7 @@ class WpsConvertToPdf:
 
 		wndMainRect = win32gui.GetWindowRect(wndMain)
 		win32gui.SetForegroundWindow(wndMain)
-		time.sleep(1)
+		time.sleep(2)
 		self.keyboardWithAlt('F')
 		self.keyboardPressKey('F')
 		self.keyboardPressEnter()
