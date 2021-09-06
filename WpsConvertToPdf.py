@@ -63,7 +63,7 @@ class WpsConvertToPdf:
 		wndMainTitleSuffix = " - WPS 表格"
 		if (fileExtName == ".docx"):
 			wndMainTitleSuffix = " - WPS 文字"
-		if (fileExtName == ".docx"):
+		if (fileExtName == ".pptx"):
 			wndMainTitleSuffix = " - WPS 演示"
 		if (platform.platform().startswith("Windows-10")):
 			wndMainTitleSuffix = " - WPS Office"
