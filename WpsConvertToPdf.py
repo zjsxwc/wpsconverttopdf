@@ -105,7 +105,6 @@ class WpsConvertToPdf:
 		self.keyboardPressEnter()
 		self.keyboardWithAlt('F')
 		self.keyboardPressKey('Q')
-		self.keyboardPressKey('N')
 
 		os.rename(tryRenamePdfFileNamePath, pdfFilePath)
 
