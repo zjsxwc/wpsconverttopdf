@@ -80,6 +80,7 @@ class WpsConvertToPdf:
 		time.sleep(1)
 		self.keyboardWithAlt('F')
 		self.keyboardPressKey('F')
+		time.sleep(0.4)
 		self.keyboardPressEnter()
 
 		processingWnd = None
