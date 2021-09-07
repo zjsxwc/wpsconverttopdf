@@ -17,8 +17,8 @@ x.convert(r"C:\Users\zjsxwc\Desktop\WpsConvertToPdf\test.xlsx")
 
 #### todo
 
-由于wps对pptx的交互需要鼠标介入，
-所以目前脚本还不支持ppt转pdf，
+由于 win10 系统下的wps对pptx的交互需要鼠标介入，
+所以目前脚本还不支持 win10 下ppt转pdf，
 我也懒得写了，就是对ppt用鼠标特殊处理，
 pywin32怎么模拟鼠标操作代码网上都是，很简单，
 有需求的自己调吧。
