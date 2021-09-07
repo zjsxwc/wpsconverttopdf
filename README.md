@@ -5,6 +5,7 @@
 2. 使用 pip 安装脚本依赖的 pywin32 `pip install pywin32`
 3. 安装 win 最新版 wps 2019
 4. 设置 wps 为 xlsx、docx 等拓展名文件的默认打开程序
+5. 不建议用 win10 系统，我是虚拟机 win7
 
 #### 使用
 
