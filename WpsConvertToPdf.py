@@ -66,6 +66,7 @@ class WpsConvertToPdf:
 		if (fileExtName == ".pptx"):
 			wndMainTitleSuffix = " - WPS 演示"
 		if (platform.platform().startswith("Windows-10")):
+			print("不建议用 win10")
 			wndMainTitleSuffix = " - WPS Office"
 
 		wndMainTitle = fileBaseName + fileOrigExtName + wndMainTitleSuffix
